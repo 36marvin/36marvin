@@ -3,9 +3,9 @@
 
 <div align="center"><h2>INTERESSE NA PRODUÇÃO DE</h2></div>
 
-- Sites elegantes, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
-- Aplicativos de página única (single-page web apps).<br>
-- Manutenção para sites já construídos.<br>
+- Sites elegantes, dinâmicos e de alta-perfomance em HTML, CSS e JS<br>
+- Aplicativos de página única (single-page web apps)<br>
+- Manutenção para sites já construídos<br>
 
 <div align="center"><h2>USANDO TECNOLOGIAS DE</h2></div>
 
@@ -24,13 +24,10 @@ Transporte de dados em JSON e XML;<br>
 C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio.
 
 <div align="center">  
-<br>
 
 ___
-<br><br>
   
 ![Que curioso tu, rapaz!](https://user-images.githubusercontent.com/104041222/164129172-53ed673d-82a8-4eff-b1be-0728bc699820.gif)
-
   
 ## IDIOMAS ESTRANGEIROS
 
