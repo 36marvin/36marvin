@@ -3,14 +3,17 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif"></div>
 
-## INTERESSES EM PRODUZIR
+## INTERESSE NA PRODUÇÃO DE
 
-Sites modernos, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
-Aplicativos de página única (single-page web apps).<br>
-Manutenção para sites já construídos.<br>
+- Sites modernos, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
+- Aplicativos de página única (single-page web apps).<br>
+- Manutenção para sites já construídos.<br>
 
 ## USANDO TECNOLOGIAS DE
-  
+
+<img src="https://user-images.githubusercontent.com/104041222/164144690-3e7e43c1-da7b-40c2-b22e-55e9ab4c5171.png" width="300" height="150">
+
+
 HTML 5 puro;<br>
   
 CSS3 puro e sob preprocessamento SASS;<br>
