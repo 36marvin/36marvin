@@ -27,10 +27,9 @@ C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de
 
 <div align="center">  
 <br>
-<br>
 
 ___
-<br>
+<br><br>
   
 ![Que curioso tu, rapaz!](https://user-images.githubusercontent.com/104041222/164129172-53ed673d-82a8-4eff-b1be-0728bc699820.gif)
 
