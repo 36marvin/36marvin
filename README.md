@@ -23,7 +23,6 @@ Transporte de dados em JSON e XML;<br>
 
 C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio.
 
-<div align="center">  
 
 ___
   
@@ -54,4 +53,3 @@ You can click the Preview link to take a look at your changes.
 
   
   
-</div>
