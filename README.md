@@ -1,7 +1,7 @@
 # E AÍ, VEY, BELEZA?
-<div>
- <img align="left" src="https://user-images.githubusercontent.com/104041222/164136380-d74ba03f-a82f-43ff-96dd-d4c59bd02b06.gif">
-</div> Agente de desenvolvimento em front-end na sacrossantíssima trindade HTML-CSS-Javascript.
+Agente de desenvolvimento em front-end na sacrossantíssima trindade HTML-CSS-Javascript.
+
+<div align="center"><img align="center" src="https://user-images.githubusercontent.com/104041222/164136380-d74ba03f-a82f-43ff-96dd-d4c59bd02b06.gif"></div>
 
 ## INTERESSES EM PRODUZIR
 
