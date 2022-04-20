@@ -5,7 +5,7 @@
 
 <div align="center"><h2>INTERESSE NA PRODUÇÃO DE</h2></div>
 
-- Sites modernos, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
+- Sites elegantes, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
 - Aplicativos de página única (single-page web apps).<br>
 - Manutenção para sites já construídos.<br>
 
