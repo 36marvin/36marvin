@@ -10,18 +10,16 @@ Aplicativos de página única (single-page web apps).<br>
 Manutenção para sites já construídos.<br>
 
 ## USANDO TECNOLOGIAS DE
-
+  
 HTML 5 puro;<br>
-
+  
 CSS3 puro e sob preprocessamento SASS;<br>
 Estrutura de nomes BEM;<br>
 ADOBE XD e wireframes;<br>
-
-
+  
 Javascript puro, em REACT, VUE e JQuery;<br>
 Comunicação em AJAX;<br>
 Transporte de dados em JSON e XML;<br>
-
 
 ## INTERESSES REMOTOS
 
@@ -30,8 +28,10 @@ C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de
 <div align="center">  
 <br>
 <br>
-<br>
 
+___
+<br>
+  
 ![Que curioso tu, rapaz!](https://user-images.githubusercontent.com/104041222/164129172-53ed673d-82a8-4eff-b1be-0728bc699820.gif)
 
   
