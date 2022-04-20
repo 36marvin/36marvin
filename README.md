@@ -1,6 +1,9 @@
 # E AÍ, VEY, BELEZA?
 
-Treinando para desenvolvimento em front-end na sacrossantíssima trindade HTML-CSS-Javascript.
+![mission impossible](https://user-images.githubusercontent.com/104041222/164136380-d74ba03f-a82f-43ff-96dd-d4c59bd02b06.gif)
+
+
+Agente de desenvolvimento em front-end na sacrossantíssima trindade HTML-CSS-Javascript.
 
 ## INTERESSES EM PRODUZIR
 
