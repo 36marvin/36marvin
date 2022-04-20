@@ -1,6 +1,3 @@
-<div align="center"><h1>E AÍ, VEY, BELEZA?</h1></div>
-
-
 <div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif"></div>
 
 
