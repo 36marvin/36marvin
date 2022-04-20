@@ -1,7 +1,7 @@
-# E AÍ, VEY, BELEZA?
-<div align="center"> <h3>Agente de desenvolvimento de front-end na sacrossantíssima trindade HTML-CSS-Javascript.</h3></div><br>
+<div align="center"><h1>E AÍ, VEY, BELEZA?</h1></div>
 
-<div align="center"><img align="center" src="https://user-images.githubusercontent.com/104041222/164136380-d74ba03f-a82f-43ff-96dd-d4c59bd02b06.gif"></div> <br><br>
+
+<div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif"></div>
 
 ## INTERESSES EM PRODUZIR
 
