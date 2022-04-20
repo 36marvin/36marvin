@@ -3,7 +3,7 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif"></div>
 
-## INTERESSE NA PRODUÇÃO DE
+<div align="center"><h2>INTERESSE NA PRODUÇÃO DE</h2></div>
 
 - Sites modernos, dinâmicos e de alta-perfomance em HTML, CSS e JS.<br>
 - Aplicativos de página única (single-page web apps).<br>
