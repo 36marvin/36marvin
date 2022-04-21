@@ -23,7 +23,7 @@ Transporte de dados em JSON e XML;<br>
 <div align="center"><h2>INTERESSES REMOTOS</h2></div>
 
 C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio. 
-<br>
+<br><br>
 
 ___
 <div align="center">
