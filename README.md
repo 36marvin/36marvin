@@ -5,7 +5,8 @@
 
 - Sites elegantes, dinâmicos e de alta-perfomance em HTML, CSS e JS<br>
 - Aplicativos de página única (single-page web apps)<br>
-- Manutenção para sites já construídos<br>
+- Manutenção e renovação para sites já construídos<br>
+- Design de elementos especiais (cards, elementos decorativos)
 
 <div align="center"><h2>USANDO TECNOLOGIAS DE</h2></div>
 
