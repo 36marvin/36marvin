@@ -22,9 +22,31 @@ Transporte de dados em JSON e XML;<br>
 
 <div align="center"><h2>INTERESSES REMOTOS</h2></div>
 
-C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio.
+C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio. 
+<br>
 
-<!--  
+___
+<div align="center">
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span>
+<br>
+<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
+<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+</span>
+</div>
+
+
+
+
+<!--  DEIXA ESSA PORRA PRA LÁ
+
+
 <div align="center">  
 ___
 
