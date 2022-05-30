@@ -1,28 +1,19 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif">
+</div>
 
 
-<div align="center"><h2>INTERESSE NA PRODUÇÃO DE</h2></div>
+<div align="center"><h2>Stack</h2></div>
 
-- Sites elegantes, dinâmicos e de alta-perfomance em HTML, CSS e JS<br>
-- Aplicativos de página única (single-page web apps)<br>
-- Manutenção e renovação para sites já construídos<br>
-- Design de elementos especiais (cards, elementos decorativos)
+<b>Front-end:</b> React, Angular, JavaScript, SASS, Jquery, CSS/HTML. <br>
+<b>Back-end:</b> Javascript (Node), Express, PHP.
 
-<div align="center"><h2>USANDO TECNOLOGIAS DE</h2></div>
+<div align="center"><h2>Interesses remotos</h2></div>
 
-HTML 5 puro;<br>
-  
-CSS3 puro e sob preprocessamento SASS;<br>
-Estrutura de nomes BEM;<br>
-ADOBE XD e wireframes;<br>
-  
-Javascript puro, em REACT, VUE e JQuery;<br>
-Comunicação em AJAX;<br>
-Transporte de dados em JSON e XML;<br>
+C#, produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora (atualmente uso o Krita).
 
-<div align="center"><h2>INTERESSES REMOTOS</h2></div>
+<div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
 
-C# e Java. Métodos de ágeis, clean code, princípios SOLID. Desenvolvimento de aplicativos para android e jogos na engine Godot. Produção de músicas no FL Studio. 
+Métodos de ágeis, clean code, princípios SOLID. Padrão BEM de CSS, modelo model-view-controller. 
 <br><br>
 
 ___
@@ -44,7 +35,7 @@ ___
 
 
 
-<!--  DEIXA ESSA PORRA PRA LÁ
+
 
 
 <div align="center">  
@@ -60,16 +51,8 @@ ___
 
 🇩🇪 : iniciante. Delícia de idioma.
 
-### EM ARTE
-
-🇧🇷 🇵🇹 Literarura Lusófona: Monteiro Lobato, João de Deus, Álvares de Azevedo; estudos de Poética.
-
-✏️ Artes digitais: Desenho de personagens e cenários em mesa digitalizadora no Krita e Photoshop. 
-
-📚 : The Kindly Ones (Jonathan Littell), The Sandman (quadrinhos, Neil Gaiman), A Clash of Kings (A Song of Ice and Fire).
- 
 </div>
--->
+
 <!---
 CRIAR UM SITE ANIMADO, TIRAR UMA GIF E COLOCAR NO MEU HEADER
 
