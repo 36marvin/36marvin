@@ -1,4 +1,5 @@
-<div align="center"><img src="https://user-images.githubusercontent.com/104041222/164143797-e341b270-3ff7-4e57-9f36-2d849fcd103e.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/104041222/164129172-53ed673d-82a8-4eff-b1be-0728bc699820.gif">
 </div>
 
 
@@ -31,15 +32,12 @@ Angular.js e outros frameworks, Python & frameworks. Produção de jogos no Godo
 Métodos de ágeis, clean code, princípios SOLID. Padrão BEM de CSS, modelo model-view-controller de back-end. 
 <br><br>
 
-___
-
-
-
+<hr><br>
 
 <div align="center">  
-___
+<!-- add gif here -->
 
-![Que curioso tu, rapaz!](https://user-images.githubusercontent.com/104041222/164129172-53ed673d-82a8-4eff-b1be-0728bc699820.gif)
+  <img src="https://user-images.githubusercontent.com/104041222/172271815-184d6618-2841-456c-8877-b07b82ab485e.gif">
   
 ## IDIOMAS ESTRANGEIROS
 
@@ -50,12 +48,4 @@ ___
 🇩🇪 : iniciante. Delícia de idioma.
 
 </div>
-
-<!---
-CRIAR UM SITE ANIMADO, TIRAR UMA GIF E COLOCAR NO MEU HEADER
-
-36marvin/36marvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
