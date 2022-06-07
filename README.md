@@ -4,19 +4,6 @@
 
 <div align="center"><h2>Stack</h2></div>
 
-<b>Front-end:</b> React, Angular, JavaScript, SASS, Jquery, CSS/HTML. <br>
-<b>Back-end:</b> Javascript (Node), Express, PHP.
-
-<div align="center"><h2>Interesses remotos</h2></div>
-
-C#, produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora (atualmente uso o Krita).
-
-<div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
-
-Métodos de ágeis, clean code, princípios SOLID. Padrão BEM de CSS, modelo model-view-controller. 
-<br><br>
-
-___
 <div align="center">
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -25,15 +12,26 @@ ___
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></span>
 <br>
-<span><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
-<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
+<span>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></span>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></span>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></span>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></span>
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></span>
+  
 </span>
 </div>
 
+<div align="center"><h2>Interesses remotos</h2></div>
 
+C#, produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora (atualmente uso o Krita).
 
+<div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
+
+Métodos de ágeis, clean code, princípios SOLID. Padrão BEM de CSS, modelo model-view-controller de back-end. 
+<br><br>
+
+___
 
 
 
