@@ -24,7 +24,7 @@
 
 <div align="center"><h2>Interesses remotos</h2></div>
 
-C#, produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora (atualmente uso o Krita).
+Angular.js e outros frameworks, Python & frameworks. Produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora.
 
 <div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
 
