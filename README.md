@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
   </span>
 </div>
-Angular.js e outros frameworks, Python & frameworks. Produção de jogos no Godot, músicas no FL Studio, artes digitais em mesa digitalizadora.
 
 <div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
 
