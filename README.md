@@ -33,7 +33,7 @@
 
 <div align="center"><h2>Paradigmas, padrões de design, etc.</h2></div>
 
-Métodos de ágeis, clean code, princípios SOLID. Padrão BEM de CSS, modelo model-view-controller de back-end. 
+Agile, Clean Code, CI/CD, Gitflow; padrão BEM (CSS) e model-view-controller (MVC). 
 <br><br>
 
 <hr><br>
